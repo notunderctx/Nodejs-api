@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "api",
+			"path": "../api"
+		},
+		{
+			"name": "firdir",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
